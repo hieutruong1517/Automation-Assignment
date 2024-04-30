@@ -1,4 +1,6 @@
 # QA-Automation-Assignment-Droppi
+I use Playwright with Javascript in this project.
+
 **How to run:**
 1. Open CMD
 2. Run npm install
