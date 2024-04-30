@@ -5,7 +5,7 @@ import {devices} from "playwright";
 const config = {
     // ...
     use: {
-      headless: true,
+      headless: !true,
         browserName: "chromium",
         screenshot: "on",
         baseURL: "https://magento.softwaretestingboard.com/",
