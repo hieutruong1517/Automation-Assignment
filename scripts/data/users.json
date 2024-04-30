@@ -1,0 +1,36 @@
+{
+    "validUsers": [
+        {
+            "firstName": "Truong",
+            "lastName": "Hieu",
+            "email": "hieutruong1517@gmail.com",
+            "password": "khocakEo113"
+        },
+        {
+            "firstName": "Nguyen",
+            "lastName": "Van A",
+            "email": "test@gmail.com",
+            "password": "ValidPassword456"
+        },
+        {
+            "firstName": "Truong",
+            "lastName": "Van B",
+            "email": "test123@gmail.com",
+            "password": "correctPassword123"
+        }
+    ],
+    "invalidUsers": [
+        {
+            "firstName": "Invalid",
+            "lastName": "User",
+            "email": "invalid@example.com",
+            "reason": "Invalid email format"
+        },
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john@example.com",
+            "reason": "Password too weak"
+        }
+    ]
+}

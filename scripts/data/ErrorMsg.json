@@ -1,0 +1,14 @@
+{
+  "CreateNewAccount": {
+  "emptyInput": "This is a required field",
+  "invalidEmail": "Please enter a valid email address (Ex: johndoe@domain.com).",
+  "duplicatedEmail": "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account.",
+  "invalidPasswordLength": "Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.",
+  "invalidCharacterPassword": "Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",
+  "incorrectConfirmPassword": "Please enter the same value again."
+  },
+  "SignIn": {
+    "invalidEmail": "Please enter a valid email address (Ex: johndoe@domain.com).",
+    "invalidPassword": "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+  }
+}

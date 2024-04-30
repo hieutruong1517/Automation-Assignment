@@ -1,0 +1,22 @@
+{
+  "name": "testplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "allure": "^0.0.0",
+    "allure-commandline": "^2.29.0",
+    "clean-dir": "^1.0.3",
+    "playwright": "^1.43.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "allure-playwright": "^2.15.1"
+  }
+}
