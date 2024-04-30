@@ -1,7 +1,8 @@
 # QA-Automation-Assignment-Droppi
-I use Playwright with Javascript in this project.
+I use Playwright with Javascript in this project. You can open the 'scripts' folder to see how it is structured.
 
 **How to run:**
+After cloning the project into your computer, you will need to:
 1. Open CMD
 2. Run npm install
 3. Run npx playwright test
