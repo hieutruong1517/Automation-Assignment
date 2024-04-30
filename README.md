@@ -1,10 +1,10 @@
 # QA-Automation-Assignment-Droppi
-How to run:
+**How to run:**
 1. Open CMD
 2. Run npm install
 3. Run npx playwright test
 
-How to generate the test report
+**How to generate the test report**
 1. Open CMD
 2. Run allure generate ./allure-results --clean
 3. Run allure open allure-report
